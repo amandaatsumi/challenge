@@ -44,6 +44,13 @@ footer {
   top: 0;
   left: 100px;
 }
+.repeat{
+  font-size: 5rem;
+  position: fixed;
+  top: 0;
+  right: 120px;
+
+}
 .container{
   text-align: center;
   width: 70%;
